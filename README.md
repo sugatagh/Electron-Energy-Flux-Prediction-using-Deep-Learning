@@ -1,8 +1,16 @@
 # Electron Energy Flux Prediction using Deep Learning
 
-Kaggle notebook for EDA: **https://www.kaggle.com/code/sugataghosh/electron-energy-flux-prediction-part-1-eda**
+## Project Report
 
-Kaggle notebook for modeling: **https://www.kaggle.com/code/sugataghosh/electron-energy-flux-prediction-part-2-modeling**
+**https://sugatagh.github.io/dsml/projects/electron-energy-flux-prediction/**
+
+## Kaggle Notebooks
+
+**Part $1$. Exploratory Data Analysis:** **https://www.kaggle.com/code/sugataghosh/electron-energy-flux-prediction-part-1-eda**
+
+**Part $2$. Modeling:** **https://www.kaggle.com/code/sugataghosh/electron-energy-flux-prediction-part-2-modeling**
+
+## Overview
 
 - In [**McGranaghan et al. (2021)**](https://doi.org/10.1029/2020SW002684), the authors have considered the problem of modeling _electron particle precipitation_ from the [**magnetosphere**](https://en.wikipedia.org/wiki/Magnetosphere) to the [**ionosphere**](https://en.wikipedia.org/wiki/Ionosphere). They attempted to address it through a new database, using [**machine learning**](https://en.wikipedia.org/wiki/Machine_learning) tools to extract useful information from it.
 
